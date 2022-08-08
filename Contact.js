@@ -9,11 +9,11 @@ const Contact = (props) => {
         //<div>
         //<Header />
         //<Sidebar />
-        //<h1>Contact US Page</h1>
         //<Footer />
         //</div>
+
         <div>
-        <div>{props.data}</div>
+             <h1>Contact Us</h1>
         </div>
     );
     }
